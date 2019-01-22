@@ -1,0 +1,1 @@
+[22-Dec-2018 13:42:53 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/clipnvxf/public_html/tests/TestCase.php on line 7

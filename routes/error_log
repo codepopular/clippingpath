@@ -1,0 +1,20 @@
+[17-Dec-2018 04:04:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/clipnvxf/public_html/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/clipnvxf/public_html/routes/api.php on line 16
+[17-Dec-2018 04:09:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/clipnvxf/public_html/routes/web.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/clipnvxf/public_html/routes/web.php on line 19
+[18-Dec-2018 09:38:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/clipnvxf/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/clipnvxf/public_html/routes/console.php on line 16
+[18-Dec-2018 12:59:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/clipnvxf/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/clipnvxf/public_html/routes/channels.php on line 14
+[23-Dec-2018 05:01:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/clipnvxf/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/clipnvxf/public_html/routes/channels.php on line 14

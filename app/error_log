@@ -1,0 +1,16 @@
+[16-Dec-2018 20:45:00 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/clipnvxf/public_html/app/menu.php on line 7
+[16-Dec-2018 21:13:41 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/clipnvxf/public_html/app/User.php on line 9
+[16-Dec-2018 21:16:52 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/clipnvxf/public_html/app/quote.php on line 7
+[16-Dec-2018 21:32:47 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/clipnvxf/public_html/app/social.php on line 7
+[16-Dec-2018 21:48:43 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/clipnvxf/public_html/app/blog.php on line 7
+[16-Dec-2018 22:17:23 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/clipnvxf/public_html/app/trial.php on line 7
+[16-Dec-2018 22:55:36 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/clipnvxf/public_html/app/header.php on line 7
+[17-Dec-2018 00:07:10 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/clipnvxf/public_html/app/slider.php on line 7
+[17-Dec-2018 01:29:36 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/clipnvxf/public_html/app/sample.php on line 7
+[17-Dec-2018 03:40:34 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/clipnvxf/public_html/app/footer.php on line 7
+[17-Dec-2018 08:17:00 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/clipnvxf/public_html/app/general.php on line 7
+[17-Dec-2018 08:28:09 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/clipnvxf/public_html/app/customer.php on line 7
+[17-Dec-2018 08:41:16 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/clipnvxf/public_html/app/service.php on line 7
+[18-Dec-2018 08:43:51 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/clipnvxf/public_html/app/testimonial.php on line 7
+[18-Dec-2018 12:28:08 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/clipnvxf/public_html/app/servicecat.php on line 7
+[18-Dec-2018 13:09:37 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/clipnvxf/public_html/app/buttonlink.php on line 7
